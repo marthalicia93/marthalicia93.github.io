@@ -1,0 +1,38 @@
+body {
+	color: (255,219,13);
+	background-color: (70,72,68);
+	text-align: center;
+
+
+}
+h1 {
+	color: (255,219,13);
+	background-color: (70,72,68);
+
+}
+p{
+	font-weight: 600;
+	font-size: 18px;
+
+}
+ul{
+	font-weight: 400;
+	font-size:15px;
+
+}
+li{
+
+}
+img{
+
+}
+#slogan{
+	font-style: italic;
+
+}
+ol {
+	text-align: center;
+	div {
+		direction:ltr;
+	}
+}
