@@ -1,22 +1,26 @@
-@import url(https://fonts.googleapis.com/css?family=Abhaya+Libre)
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
 	color: (255,219,13);
 	background-color: (70,72,68);
 	text-align: center;
 
-
 }
 h1 {
 	color: (255,219,13);
 	background-color: (70,72,68);
-	font-family:'Abhaya Libre', serif;
+	font-family:'Open Sans', sans serif;
 	font-size: 24px;
+	font-weight: black;
 
 }
 p{
 	font-weight: 600;
 	font-size: 18px;
 	text-align:center;
+	font-family:'Open Sans'; serif;
+	line-height: 1.5em;
+	margin: 2em;
+	font-weight: semi-bold;
 
 }
 ul{
@@ -37,7 +41,4 @@ img{
 }
 ol {
 	text-align: center;
-	div {
-		direction:ltr;
 	}
-}
